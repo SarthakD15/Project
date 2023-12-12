@@ -1,0 +1,11 @@
+Outlook, Temprature, Humidity, Windy, Class
+sunny,hot,high,weak,no
+sunny,hot,high,strong,no
+overcast,hot,high,weak,yes
+overcast,hot,high,weak,no
+sunny,cold,medium,strong,yes
+rainy,cold,medium,weak,no
+sunny,hot,medium,strong,yes
+rainy,cold,high,strong,yes
+rainy,cold,high,weak,no
+overcast,hot,high,weak,yes

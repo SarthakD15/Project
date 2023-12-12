@@ -1,0 +1,9 @@
+InfoGain ( outlook|playGame ),0.594361
+Gain ( outlook|playGame ),0.216917
+InfoGain ( temp|playGame ),0.75
+Gain ( temp|playGame ),0.0612781
+InfoGain ( humidity|playGame ),0.75
+Gain ( humidity|playGame ),0.0612781
+InfoGain ( wind|playGame ),0.795566
+Gain ( wind|playGame ),0.0157121
+SubClass : outlook has maximum gain. Hence it will be selected as root for splitting.

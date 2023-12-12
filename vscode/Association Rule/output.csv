@@ -1,0 +1,4 @@
+{I1 } -> {I2 }, Confidence: 75%
+{I2 } -> {I1 }, Confidence: 66.6667%
+{I2 } -> {I3 }, Confidence: 66.6667%
+{I3 } -> {I2 }, Confidence: 75%

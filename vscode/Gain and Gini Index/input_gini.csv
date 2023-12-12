@@ -1,0 +1,15 @@
+Rain Fall,Temprature,Road Status,Road Works,Increase Weight
+No Rain,High,Closed,Normal,Yes
+No Rain,High,Closed,Maintenance,No
+Rain,High,Closed,Maintenance,Yes
+Heavy Rain,High,Closed,Maintenance,Yes
+Heavy Rain,Low,Open,Normal,Yes
+Heavy Rain,Low,Open,Normal,No
+Heavy Rain,Low,Open,Normal,No
+Rain,Average,Open,Normal,No
+No Rain,Low,Closed,Maintenance,No
+No Rain,Average,Open,Maintenance,No
+Heavy Rain,Average,Open,Maintenance,Yes
+No Rain,Average,Open,Normal,Yes
+Rain,High,Closed,Maintenance,Yes
+Rain,Average,Open,Maintenance,No
